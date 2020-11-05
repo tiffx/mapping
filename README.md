@@ -1,5 +1,5 @@
 # mapping
-
+Web map of volcanoes in the United States and world population.
 ## Volcano Layer
 Green = Elevation less than 1000 meters <br/>
 Orange = Elevation greater than or equal to 1000 meters and less than 3000 meters <br/>
